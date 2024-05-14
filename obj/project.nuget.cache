@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "4SwK3aVH/wLFJiFb+bGumRuqcrI2wgkSLVtt5OFx6gVJHfCXuqh5f70hfbt0uCZQboWsZO0HgqAeLXyAT6UAEw==",
+  "success": true,
+  "projectFilePath": "/Users/stefaniapozzi/IT/web2/UpdraftV2/UpdraftV2.csproj",
+  "expectedPackageFiles": [
+    "/Users/stefaniapozzi/.nuget/packages/microsoft.aspnetcore.spaservices.extensions/8.0.4/microsoft.aspnetcore.spaservices.extensions.8.0.4.nupkg.sha512",
+    "/Users/stefaniapozzi/.nuget/packages/microsoft.extensions.fileproviders.abstractions/8.0.0/microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "/Users/stefaniapozzi/.nuget/packages/microsoft.extensions.fileproviders.physical/8.0.0/microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "/Users/stefaniapozzi/.nuget/packages/microsoft.extensions.filesystemglobbing/8.0.0/microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "/Users/stefaniapozzi/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
