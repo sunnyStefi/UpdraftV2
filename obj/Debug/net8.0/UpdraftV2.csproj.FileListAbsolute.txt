@@ -34,3 +34,6 @@
 /Users/stefaniapozzi/IT/web2/UpdraftV2/obj/Debug/net8.0/UpdraftV2.pdb
 /Users/stefaniapozzi/IT/web2/UpdraftV2/obj/Debug/net8.0/UpdraftV2.genruntimeconfig.cache
 /Users/stefaniapozzi/IT/web2/UpdraftV2/obj/Debug/net8.0/ref/UpdraftV2.dll
+/Users/stefaniapozzi/IT/web2/UpdraftV2/bin/Debug/net8.0/package-lock.json
+/Users/stefaniapozzi/IT/web2/UpdraftV2/bin/Debug/net8.0/package.json
+/Users/stefaniapozzi/IT/web2/UpdraftV2/obj/Debug/net8.0/UpdraftV2.sourcelink.json
